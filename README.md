@@ -1,2 +1,2 @@
-# Spring2020SSSOgraphics
- These are the onstream graphics used for the SpinShare Speen Open Spring 2020 tournament
+# Spring 2020 SSSO on-stream graphics
+A "small" guide on how to set up the on-stream graphics for your own Spin Rhythm related tournaments!

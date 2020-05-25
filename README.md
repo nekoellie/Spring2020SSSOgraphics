@@ -3,6 +3,8 @@ A "small" guide on how to set up the on-stream graphics for your own Spin Rhythm
 
 ## Prerequisites
   - [OBS](https://obsproject.com)
+    - [Spectralizer](https://obsproject.com/forum/resources/spectralizer.861/)
+    - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
   - [VLC](https://www.videolan.org/vlc/index.html/)
   - [Chatty](https://chatty.github.io/)
   - [Foobar](https://www.foobar2000.org/)

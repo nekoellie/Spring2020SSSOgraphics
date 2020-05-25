@@ -1,0 +1,7 @@
+{
+    "bitrate": 6000,
+    "profile": "high",
+    "rate_control": "VBR",
+    "tune": "zerolatency",
+    "use_bufsize": false
+}

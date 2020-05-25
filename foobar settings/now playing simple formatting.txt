@@ -1,0 +1,8 @@
+$if(%isplaying%,
+$if(%ispaused%,
+paused
+,
+Now Playing
+): $crlf()%title%$crlf()From: %album%$crlf()By: %artist%,
+
+)

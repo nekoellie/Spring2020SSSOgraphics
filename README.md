@@ -15,3 +15,15 @@ A "small" guide on how to set up the on-stream graphics for your own Spin Rhythm
   - Not neccesary: 
     - [ImBatch](http://www.highmotionsoftware.com/products/imbatch/)
     - [Chatty](https://chatty.github.io/)
+
+
+## OBS Setup
+  #### How to import scenes and profiles
+  Open OBS studio, after opening OBS studio, go to `Profile` -> `Import` and select the `Tournament2` folder in `\Spring2020SSSOgraphics\OBS\`
+  
+  Now it's time to import the Scene Collection. Go to `Scene Collection` -> `Import` and click no on any popups that may appear. Now the `Scene Collection Importer` window should be open.
+  ![Scene Collection Importer](https://puu.sh/FP5ax/e38e5c8d46.png)
+  Click on `Add` and select the `Tournament.json` file in `\Spring2020SSSOgraphics\OBS\`, then click on Import. 
+  You should now have a `Tournament` Scene Collection under the `Scene Collection` tab.
+
+  Make sure you are on the right `Profile` and `Scene Collection` before going any further.

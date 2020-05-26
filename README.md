@@ -9,7 +9,7 @@ A "small" guide on how to set up the on-stream graphics for your own Spin Rhythm
 - [OBS](https://obsproject.com)
   - Plugins:
     - [Spectralizer](https://obsproject.com/forum/resources/spectralizer.861/)
-      - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
+    - [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
   - [VLC](https://www.videolan.org/vlc/index.html/)
   - [Foobar](https://www.foobar2000.org/)
     - [Foobar NP Simple plugin](https://skipyrich.com/w/index.php/Foobar2000:Now_Playing_Simple/)
